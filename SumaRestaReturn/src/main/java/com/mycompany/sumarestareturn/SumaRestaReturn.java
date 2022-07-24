@@ -32,7 +32,7 @@ public class SumaRestaReturn {
     }
     
     //Funciones
-    static int suma(int pepito, int pepita){ //devueltve entero (return)
+    static int suma(int pepito, int pepita){ //devuelve entero (return)
         int resultado1 = pepito+pepita;
         return resultado1;
     }
